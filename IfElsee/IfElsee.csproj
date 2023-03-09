@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A65D65DD-EFD7-45CC-8D66-AD9E0D4F6047}</ProjectGuid>
+    <ProjectGuid>{A0B78CCF-861E-4245-8A0A-FBF78FC17785}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IfElse</RootNamespace>
-    <AssemblyName>IfElse</AssemblyName>
+    <RootNamespace>IfElsee</RootNamespace>
+    <AssemblyName>IfElsee</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ㅡ먀ㅜㅁㅔㅔ.cs" />
+    <Compile Include="MainApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

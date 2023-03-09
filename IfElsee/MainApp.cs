@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IfElse
+namespace IfElsee
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
