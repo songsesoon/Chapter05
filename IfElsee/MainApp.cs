@@ -9,7 +9,7 @@ namespace IfElsee
     class MainApp
     {
         static void Main(string[] args)
-        {////
+        {////00
         }
     }
 }
